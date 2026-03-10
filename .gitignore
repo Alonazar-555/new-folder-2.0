@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.db-journal
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# VSCode / Cursor
+.vscode/
+.cursor/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
